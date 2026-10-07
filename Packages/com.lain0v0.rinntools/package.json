@@ -1,0 +1,19 @@
+{
+  "name": "com.lain0v0.rinntools",
+  "displayName": "com.lain0v0.rinntools",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.5"
+  },
+  "author": {
+    "name": "橙琳Rinn",
+    "email": "rinn@orinnge.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\SynologyDrive\\_AppData\\Code\\rinntools\\Packages\\com.lain0v0.rinntools"
+}
